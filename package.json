@@ -1,0 +1,16 @@
+{
+  "name": "mark-spencer-website-proposal",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev --port 3012",
+    "build": "next build",
+    "start": "next start --port 3012"
+  },
+  "dependencies": {
+    "next": "^16.0.0",
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0"
+  },
+  "engines": { "node": ">=20.9.0" }
+}
