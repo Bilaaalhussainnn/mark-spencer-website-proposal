@@ -10,6 +10,7 @@ export const proposal = {
   domainStatus: "Available when checked. Final availability is confirmed at registration.",
   studio: "Orbilect SEO",
   website: "https://orbilectseo.com/",
+  termsUrl: "https://orbilectseo.com/terms-and-conditions",
   privacy: "https://orbilectseo.com/privacy-policy",
   calendly: "https://calendly.com/bilaalhussain/software-project-discovery-call-with-bilal",
   upfrontPercent: 40,
@@ -18,7 +19,7 @@ export const proposal = {
       title: "Restaurant website",
       price: 21000,
       description: "Guest website, direct reservations, a private restaurant dashboard, launch setup, and 12 months of support.",
-      includes: ["All 36 deliverables below", "Reservation and guest-support tools", "SEO foundations and tested handoff"],
+      includes: ["All 36 proposal deliverables", "Reservation and guest-support tools", "SEO foundations and tested handoff"],
     },
     {
       title: "Website + HR and finance",
